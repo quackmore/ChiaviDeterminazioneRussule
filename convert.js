@@ -70,7 +70,6 @@ function generateHtmlFromKeys(keys, cat) {
     <table class="keys">
       ${section.rows.join('\n      ')}
     </table>
-    <a class="top-link" href="#top">torna su</a>
   </section>
 `;
     }

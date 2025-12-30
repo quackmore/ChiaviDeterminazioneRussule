@@ -1,7 +1,7 @@
 1a Carne più o meno nettamente ingiallente -> 2
 1b Carne solamente ingrigente -> 3
 2a Rarissima specie di latifoglie (assente nel centro Italia?), a carne moderatamente ingiallente e spore con aculei isolati (se sapore mite, cf. R. terenopus) -> R. violacea
-2b Carne vivamente ingiallente, insensibile alla tintura di Guaiaco, lamelle più o meno falciformi , arrossanti con Ammoniaca, habitat nei boschi di conifere, sotto Picea e soprattutto Abies (in subsez. Sardoninae) -> R. cavipes
+2b Carne vivamente ingiallente, insensibile alla tintura di Guaiaco, lamelle più o meno falciformi, arrossanti con Ammoniaca, habitat nei boschi di conifere, sotto Picea e soprattutto Abies (in subsez. Sardoninae) -> R. cavipes
 2c Carne moderatamente ingiallente, insensibile all'Ammoniaca, dermatocistidi un po' settati [specie non adeguatamente confermata, forse assimilabile alla precedente (2b)] -> R. pseudocavipes
 3a Minuscola specie dal cappello grigio-verde pallido, l'odore tenue e il sapore subdolce, grandi spore spinulose, epicutis comprendente peli e dermatocistidi voluminosi -> R. innocua
 3b Piccola e fragile specie dal margine pileico scanalato, peli dell'epicutis sottili, spore tendenzialmente subreticolate (non sempre), a verruche più sporgenti e aguzze che nella seguente (3c) -> R. pelargonia
