@@ -1,0 +1,62 @@
+1a Carne dura, gessosa, imbrunente o annerente, alle volte transitoriamente arrossante, carpoforo bianco all'origine, poi virante come la carne, margine liscio, a lungo incurvato, lamellule sovrabbondanti, cistidi e basidi slanciati e stretti -> (subgen. COMPACTAE) 4
+1b Sapore spesso acre o sgradevole, odori più o meno forti, sporata crema, raramente bianca, margine fortemente scanalato e gelificato nelle forme ben tipiche (se margine liscio cf. Consobrinae in 20a), gambo cavernoso, colori opachi, da ocra a rossastro a bruno d' ombra, a bistro grigiastro, pigmento membranario o incrostante, velo presente o assente -> (subgen. INGRATULA) 5
+1c Colori generalmente vivaci, rossi, verdi, viola, bruni, gialli, etc., lamellule rare -> 2
+2a Dermatocistidi ovunque assenti, epicutis di grossi peli subulati, cappello e gambo vellutati; le lamelle contengono pseudocistidi otticamente trasparenti, inerti in SBA (peli cistidiformi facciali)  ->    subgen. AMOENULA
+2b Cappello verde e/o violetto, raramente bruno, mai rosso, epicutis a dermatocistidi unicellulari (mancanti nelle sole Virescentinae), basidi e cistidi slanciati, spore usualmente molto piccole, prive di tacca amiloide, pigmento granulare, sapore dolce o piccantino nelle lamelle immature -> (subgen. HETEROPHYLLIDIA) 8
+2c Non questi caratteri associati  ->  3
+3a Epicutis a ife primordiali incrostate ("non incrostate" nelle Olivaceinae), senza dermatocistidi, sapore dolce  -> (subgen. INCRUSTATULA) 10
+3b Epicutis a dermatocistidi nudi o incrostati, raramente accompagnati da ife primordiali. Se l'epicutis è formata da soli peli, dermatocistidi sono presenti almeno nella corteccia del gambo  ->  (subgen. RUSSULA) 13
+4a Carne annerente, talvolta preliminarmente arrossante, spore finemente ornate, bianche in massa (almeno nelle forme europee), prive di tacca amiloide, dermatocistidi in genere molto piccoli e diverticolati all'apice, raramente assenti, pigmento vacuolare bruno ->   sez. Compactae
+4b Specie imbrunenti con portamento lattarioide e gambo cortissimo, sporata crema, eccezionalmente gialla (anche bianca in qualche forma esotica), tacca sporale il più delle volte amiloide  -> sez. Lactarioides
+4c Lamelle sovente assai spaziate, portamento igroforoide o evocante la sez. Compactae, sporata bianco puro, carne più o meno nettamente imbrunente, minuscole spore finemente ornate, prive di tacca amiloide, cisti di cilindracei filamentiformi   -> sez. Archaeinae
+5a Margine pileico ottuso (portamento come in subgen. Russula), sporata bianca, spore corredate di tacca amiloide, epicutis a dermatocistidi ben caratterizzati, irregolarmente cilindracei e settati, incrostati da un fine pigmento giallo solidificato ->  sez. Felleinae
+5b Margine pileico da acuto a subacuto, lamelle stillanti alle volte gocce acquose, sporata crema, raramente bianca, tacca sporale in genere non amiloide ->   6
+6a Velo aracneiforme giallo-bruno presente almeno alla base del gambo, dove il KOH sviluppa una reazione rosso vivo  ->  sez. Subvelatae
+6b Tracce di velo assenti, reazione negativa al KOH  ->  (sez. Ingratae) 7
+7a Cappello giallo ocra, sporata bianca, epicutis a grossi dermatocistidi fusiformi  -> subsez. Farinipedes
+7b Cappello da ocra-rossastro a bruno d'ombra, a fuliggine, odori in generale forti, gradevoli o sgradevoli, sporata crema, epicutis con dermatocistidi conici-subulati, sovente capitulati, o anche fusiformi, tuttavia di taglia mediocre o decisamente minuscola -> subsez. Foetentinae
+8a Articoli di sostegno dei peli e subcutis formati da grosse cellule stratificate, pileocistidi assenti nelle forme europee, caulocistidi presenti, rivestimento del cappello frammentato in areole  -> sez. Virescentinae
+8b Subcutis filamentosa, epicutis a dermatocistidi  -> (sez. Heterophyllae) 9
+9a Lamelle lardacee o almeno elastiche, sporata bianca, reazione al FeSO4 subnulla, poi alla lunga verde-grigio, peli e dermatocistidi esilissimi, questi ultimi non colorabili in SV, ife fortemente metacromatiche in Blu di Cresile ->  subsez. Cyanoxanthinae
+9b Lamelle elastiche solo in gioventù, sapore dolce, carne più o meno imbrunente o ingiallente, che diventa arancio vivo con il FeSO4, dermatocistidi piccoli e non colorabili in SV -> subsez. Heterophyllae
+9c Lamelle fragili, di sapore spesso piccantino, sporata crema, ocra, eccezionalmente bianca o giallina, dermatocistidi ben caratterizzati, peli più o meno grossi e articolati  -> subsez. Griseinae
+9d Lamelle più o meno fragili, di sapore piccantino, epicutis a peli e dermatocistidi cilindracei, sottili, sporata crema, ocra, ai limiti inferiori del giallo (IVa)  -> subsez. Ilicinae
+10a Sporata bianca o biancastra  -> (sez. Lilaceinae) 11
+10b Sporata gialla, raramente ocra  -> (sez. Amethystinae) 12
+11a SV rosso brillante e persistente sul secco, cappello rosa, rosso o toccato di arancio  ->  subsez. Roseinae
+11b Reazione banale con SV, colori variabili -> subsez. Lilaceinae
+12a Specie robuste, preferenti le latifoglie, carne spessa, che si colora di violetto porpora con Fenolo, ife primordiali più o meno nette ma non incrostate ->   subsez. Olivaceinae
+12b Specie di conifere a cappello vellutato o pruinoso, ife primordiali di 6-9 (I 1) µm, laticiferi assenti nella corteccia del gambo  -> subsez.Amethystinae
+12c Statura almeno media, carne talvolta ingrigente o annerente, peli dell'epicutis cilindracei, laticiferi SBA+ nella corteccia del gambo -> subsez. Integroidinae
+12d Peli clavati, laticiferi annerenti in SBA nella corteccia del gambo, cuticola senza pruina, talvolta brillante -> subsez. Chamaeleontinae
+13a Velo giallastro presente almeno alla base del gambo, dove il KOH provoca arrossamento istantaneo  -> 14
+13b Velo assente, reazione al KOH negativa  -> 15
+14a Statura minuscola, portamento di Tenellae (Rhodellinae), sporata giallina, sapore dolce -> sez.Messapicae
+14b Specie robuste, a sporata bianca o crema, sapore in genere moderatamente acre ->  sez. Viscidinae
+15a Specie piccole, con portamento più o meno slanciato, compattezza assai mediocre, margine pileico scanalato, sapore in genere mite, reazione alla tintura di Guaiaco positiva, dermatocistidi plurisettati, non incrostati (incrostazioni molto fini sono possibili in qualche specie a sporata gialla), basidi generalmente corti -> (sez. Tenellae) 16
+15b Specie pepate nelle condizioni ordinarie, dermatocistidi ben caratterizzati -> (sez. Russula) 19
+15c Specie di statura almeno media, raramente piccola, carne compatta, sapore generalmente dolce, epicutis a dermatocistidi nudi o incrostati (tuttavia assenti nel caso delle Auratinae), talvolta accompagnati da ife primordiali  -> 22
+16a Basidi non oltre 50 x 12 µm, carne ingiallente o subimmutabile, mai ingrigente -> 17
+16b Basidi fino a 60 x 14 µm, specie crescenti di preferenza sotto conifere o betulle -> 18
+17a Specie dal cappello prevalentemente rosso o arancio, carne poco o niente ingiallente (fortemente ingiallente nella sola R. arpalices) ->  subsez. Rhodellinae
+17b Specie policrome a carne ingiallente, talvolta odorante, gambo mai pigmentato di rosa-rosso -> subsez. Puellarinae
+18a Sporata crema o ocra, gambo sovente pigmentato di rosa, preferibilmente sotto betulle -> subsez. Betulinae
+18b Sporata gialla, carne poco cangiante o ingrigente, marcatamente ingiallente nella sola R. sapinea, generamente sotto conifere ->   subsez. Laricinae
+19a Dermatocistidi privi di incrostazioni  -> 20
+19b Dermatocistidi incrostati, acredine viva, reazione con tintura di Guaiaco in genere subnulla  -> subsez. Rubrinae
+20a Cappello da grigio a bruno olivastro (colori evocanti la serie Pectinata), con il margine liscio e subacuto, sporata crema, carne ingrigente o transitoriamente un po' arrossante, virante al rosa con Formalina  -> subsez. Consobrinae
+20b Colori più o meno vivaci, rosso, violetto, verde, etc., combinazioni di caratteri diversi dalla precedente (20a) -> 21
+21a Sporata bianca, eventualmente crema in qualche specie a cappello più o meno giallo, odore non di pelargonio     -> subsez.Russula
+21b Sporata crema, odore più o meno forte di pelargonio, gambo mai tinto di rosa, carne ingrigente o un po' ingiallente  -> subsez. Violaceinae
+21c Carne più o meno rigida, sporata crema o ocra (bianca nella sola R. luteotacta), gambo sovente rosa o violaceo, lamelle per lo più adnate o discendenti-adnate, talvolta lacrimanti, sotto conifere o betulle (qualche specie a cappello rosso sotto latifoglie)  ->   subsez. Sardoninae
+21d Sporata gialla, di rado ocra (in tal caso il gambo non è rosato), lamelle mai decorrenti o lacrimanti -> subsez. Urentes
+22a Epicutis senza ife primordiali, formata da dermatocistidi nudi o incrostati (ma nelle Auratinae i dermatocistidi sono presenti unicamente nella corteccia del gambo) -> (sez. Polychromae) 23
+22b Epicutis a struttura mista, comprendente ife primordiali e dermatocistidi egualmente incrostati  -> (sez. Paraincrustatae) 25
+23a Cuticola di soli peli (SBA-), dermatocistidi presenti unicamente nella corteccia del gambo, reazione banale al Fenolo (non violetto vinoso) ->  sez. Auratinae
+23b Cuticola a dermatocistidi nudi  ->  24
+23c Cuticola a dermatocistidi incrostati, sporata gialla o ocra -> subsez. Paraintegrinae
+24a Carne imbrunente che odora tardivamente di aringhe, reazione verdastra al FeSO4 e rossa sulle lamelle con Anilina -> subsez. Xerampelinae
+24b Carne vivamente ingiallente o un po' imbrunente, odore talvolta di miele nell'essiccare, mai di aringhe, reazioni al FeSO4 e all'Anilina diverse da Xerampelinae (24a), dermatocistidi multisettati a contenuto emulsionato, spore globose, finemente ornate -> subsez.Melliolentinae
+24c Dermatocistidi poco o niente settati (salvo una specie a carne vivamente ingiallente e spore echinulate), sporata gialla, ocra, raramente crema, odore non di aringa o di miele essiccando, reazioni a FeSO4 e Anilina diverse da Xerampelinae (24a), carne più o meno imbrunente, raramente annerente -> subsez. Integriforminae
+25a Sporata gialla, nella sola R. tyrrhenica tra crema scuro e ocra pallido, carne un po' imbrunente o annerente -> subsez. Integrae
+25b Sporata crema pallido, sapore amaro o mentolato (lamelle), carpoforo duro, dermatocistidi e pleurocistidi inerti in SBA ->   subsez. Lepidinae

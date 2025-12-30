@@ -1,0 +1,13 @@
+1a Grandi spore marcatamente echinulate, almeno in parte reticolato-connesse, reazione subnulla con tintura di Guaiaco (stirpe Emetica) -> 2
+1b Spore più finemente verrucose, spesso densamente reticolate, reazione talvolta positiva con tintura di Guaiaco (stirpe Mairei) -> 3
+1c Specie di latifoglie a carnosità rigida, lamelle tendenzialmente decorrenti, marcatamente spaziate nelle forme più tipiche, stillanti gocce rugiadose a umido, la carne si macchia il più delle volte di giallo cromo nelle parti contuse (in sez. Sardoninae) -> R. luteotacta
+2a Piccola specie igrofita di betulla, rarissima sotto Picea, cappello rosastro, talvolta un po' violaceo, più o meno decolorante, all'occasione interamente bianco (in serieAtropurpurea) -> R. betularum
+2b Cappello fino a 100 (120) mm, grosse spore di 8,8-10,5 x 7,4-8,8 µm, habitat nelle torbiere acide, specialmente sotto conifere -> R. emetica
+2c Cappello non oltrepassante 60 mm, spore di 7,2-9 ,8 x 6,2-7,8 µm, habitat nei boschi di latifoglie o conifere in terreni arenacei, tipicamente in associazione con i muschi Leucobryum e Polytrichum -> R. silvestris
+3a Nelle quercete calde, lungo i sentieri, in terreni più o meno nudi e argillosi , cappello rosso vivo, rosa, per eccezione un po' carminio, carne che si sporca di grigio per espulsione d'acqua, anche di nerastro con la manipolazione, odore verso R. fragilis, spore 7,4-9,5 x (6) 6,4-7,8 µm -> R. rhodomelanea
+3b Habitat di latifoglie, carne subimmutabile, odorante come in R.fragilis, lamelle bianco puro, spore 7-8,2 x 6-7 µm -> R. emeticella
+3c Non questi caratteri associati -> 4
+4a Sotto latifoglie, preferibilmente faggi, carne subimmutabile o tardivamente un po' ingiallente, odore come in R. emetica, lamelle fitte, bianche, con riflesso glauco più o meno netto nei soggetti immaturi -> R. mairei
+4b Carne ingrigente a umido, nessun riflesso glauco sulle lamelle -> 5
+5a Minuscola specie delle praterie e microsilve alpine, reperibile anche in zona silvatica alle latitudini dell'Europa boreale, lamelle ben spaziate, spore da largamente obovoidi a subglobose, assai finemente ornate, dermatocistidi cilindracei, peli relativamente voluminosi -> R. nana
+5b Preferibilmente (ma non esclusivamente) negli sfagni, sotto latifoglie e conifere, lamelle tendenzialmente un po' decorrenti, spore a verruche più rilevate che in R. nana, dermatocistidi più clavati -> R. grisescens

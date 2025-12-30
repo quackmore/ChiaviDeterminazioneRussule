@@ -1,0 +1,12 @@
+1a Specie dura di media taglia, cappello da rosso porpora a bruno, sapore acre-bruciante in ritardo, odore di legno di cedro nelle lamelle asciutte, sparata IIIc-IVa, reazione debole alla tintura di Guaiaco (in subsez. Urentes) -> R. badia
+1b Non questi caratteri associati -> 2
+2a Spore almeno in parte reticolate -> 3
+2b Spore a verruche isolate o appena crestate -> 6
+3a Lamelle falciformi nei soggetti giovani, arrossanti con Ammoniaca (reazione non assolutamente costante), cappello talvolta umbonato -> 4
+3b Non questi caratteri associati -> 5
+4a Specie a carne assai compatta, con lamelle e carne sotto la corteccia del gambo lavate spesso di citrino (una fo. pseudorhodopus avrebbe carne bianca insensibile all'Ammoniaca), reazione al Guaiaco in generale positiva, habitat nei boschi di pino in terreno siliceo -> R. sardonia
+4b Specie di conifere (Picea, ma soprattutto Abies alba), a carne fragile, presto scavata nel gambo, nettamente ingiallente, insensibile alla tintura di Guaiaco, odore forte di pelargonio o simile -> R. cavipes
+5a Specie in media più tarchiata e massiccia di R. sardonia, a carne bianca, insensibile all'Ammoniaca, sapore in generale moderatamente acre, sparata IId (llla), di regola sotto pini -> R. torulosa
+5b Portamento più o meno slanciato, sapore acre pronunciato, sparata verso IIIb, altri caratteri come in R. torulosa (specie confermata, ma non ben definita e spesso confusa con la precedente) -> R. fuscorubra
+6a Habitat nelle peccete calcaree, più raramente sotto Abies o Pinus, lamelle inverdenti in certe condizioni, portamento più o meno gracile, sapore vivamente pepato e odore forte di frutta -> R. queletii
+6b Habitat nelle peccete in terreno siliceo, cappello scuro, carne più spessa e debolmente odorante, acredine mediocre, spore subcrestate (specie poco conosciuta, facilmente confusa con la precedente) -> R. fuscorubroides
