@@ -1,31 +1,93 @@
-
 <!DOCTYPE html>
 <html lang="it">
 
 <head>
   <meta charset="UTF-8">
-  <title>Chiavi per archaeinae</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chiavi per Archaeinae - Russulae</title>
   <link href="style.css" rel="stylesheet">
 </head>
 
 <body>
-  <a id="top"></a>
+  <!-- Fixed Header -->
+  <header>
+    <h1>Chiavi Determinazione Russule</h1>
+    <p>Sarnari</p>
+  </header>
 
-  <section id="group-1">
-        <table class="keys">
-      <tr id="k-1a"><td class="col-code">1a</td><td class="col-text">Piccola specie del centro Africa, a cappello non troppo carnoso, con margine traslucido e crenulato (cf. ugualmente R. parvulospora Buyck)</td><td class="col-result"><strong><em>R. archaea</em></strong></td></tr>
-      <tr id="k-1b"><td class="col-code">1b</td><td class="col-text">Specie europee carnose, con margine liscio e non traslucido</td><td class="col-result"><a href="#k-2a">2</a></td></tr>
-    </table>
-    <a class="top-link" href="#top">torna su</a>
-  </section>
+  <!-- Main Content -->
+  <main>
+    <a id="top"></a>
 
-  <section id="group-2">
-        <table class="keys">
-      <tr id="k-2a"><td class="col-code">2a</td><td class="col-text">Specie mesofila crescente nei boschi misti della zona subalpina e transalpina, fisionomia igroforoide per le lamelle subdecorrenti, di notevole spessore e spaziatura, reazione rossastra al FeSO4 , subcutis con ampolle frequenti e talvolta affioranti in superficie, peli in parte clavati, larghi fino a 6-8 µm e oltre</td><td class="col-result"><strong><em>R. camarophylla</em></strong></td></tr>
-      <tr id="k-2b"><td class="col-code">2b</td><td class="col-text">Specie delle querce da sughero, a lamelle moderatamente spaziate, carne rosa-arancio pallido con FeSO4, subcutis filamentosa priva di ampolle, peli sottili, di 2-4 µm, non dilatati in clave, spore di un'inezia più grandi e con ornamentazione appena meglio visibile</td><td class="col-result"><strong><em>R. archaeosuberis</em></strong></td></tr>
-    </table>
-    <a class="top-link" href="#top">torna su</a>
-  </section>
+    <section id="group-1">
+      <table class="keys">
+        <tr id="k-1a">
+          <td class="col-code">1a</td>
+          <td class="col-text">Piccola specie del centro Africa, a cappello non troppo carnoso, con margine traslucido e
+            crenulato (cf. ugualmente R. parvulospora Buyck)</td>
+          <td class="col-result"><strong><em>R. archaea</em></strong></td>
+        </tr>
+        <tr id="k-1b">
+          <td class="col-code">1b</td>
+          <td class="col-text">Specie europee carnose, con margine liscio e non traslucido</td>
+          <td class="col-result"><a href="#k-2a">2</a></td>
+        </tr>
+      </table>
+    </section>
+
+    <section id="group-2">
+      <table class="keys">
+        <tr id="k-2a">
+          <td class="col-code">2a</td>
+          <td class="col-text">Specie mesofila crescente nei boschi misti della zona subalpina e transalpina, fisionomia
+            igroforoide per le lamelle subdecorrenti, di notevole spessore e spaziatura, reazione rossastra al FeSO4,
+            subcutis con ampolle frequenti e talvolta affioranti in superficie, peli in parte clavati, larghi fino a 6-8
+            µm e oltre</td>
+          <td class="col-result"><strong><em>R. camarophylla</em></strong></td>
+        </tr>
+        <tr id="k-2b">
+          <td class="col-code">2b</td>
+          <td class="col-text">Specie delle querce da sughero, a lamelle moderatamente spaziate, carne rosa-arancio
+            pallido con FeSO4, subcutis filamentosa priva di ampolle, peli sottili, di 2-4 µm, non dilatati in clave,
+            spore di un'inezia più grandi e con ornamentazione appena meglio visibile</td>
+          <td class="col-result"><strong><em>R. archaeosuberis</em></strong></td>
+        </tr>
+      </table>
+    </section>
+  </main>
+
+  <!-- Floating Navigation Buttons -->
+  <div class="floating-nav">
+    <a href="index.html" class="nav-button" title="Torna all'inizio" aria-label="Home">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+      </svg>
+    </a>
+    <a href="#top" class="nav-button" title="Torna su" aria-label="Scroll to top">↑</a>
+  </div>
+
+  <!-- Fixed Footer with Hierarchy -->
+  <footer>
+    <div class="hierarchy">
+      <span class="hierarchy-item">Regno: Fungi</span>
+      <span class="hierarchy-separator">›</span>
+      <span class="hierarchy-item">Divisione: Basidiomycota</span>
+      <span class="hierarchy-separator">›</span>
+      <span class="hierarchy-item">Classe: Agaricomycetes</span>
+      <span class="hierarchy-separator">›</span>
+      <span class="hierarchy-item">Ordine: Russulales</span>
+      <span class="hierarchy-separator">›</span>
+      <span class="hierarchy-item">Famiglia: Russulaceae</span>
+      <span class="hierarchy-separator">›</span>
+      <span class="hierarchy-item">Genere: Russula</span>
+      <span class="hierarchy-separator">›</span>
+      <span class="hierarchy-item">Sottogenere: Compactae</span>
+      <span class="hierarchy-separator">›</span>
+      <span class="hierarchy-item"><strong>Sezione: Archaeinae</strong></span>
+    </div>
+  </footer>
 
 </body>
+
 </html>
