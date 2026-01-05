@@ -1,0 +1,26 @@
+1a Specie della zona silvatica associate con latifoglie ->  2
+1b Specie di conifere associate con Picea, Pinus, Larix ->  3
+1c Specie d'alta montagna rinvenibili oltre il limite superiore della vegetazione arborea, anche in mezzo a Salix nelle stazioni ripariali umide dell'Europa continentale ->  4
+2a Specie ragguardevole per carnosità e statura, associata con faggio nelle forme ben tipiche, cappello subvellutato o concentricamente marezzato, da rosso vinoso a bruno-arancio, più o meno screziato di giallo o di verde, gambo talvolta squamato di bruno, sporata da IIIb-c a IVa, peli dell'epicutis cortamente articolati, più o meno ampollacei, minuscoli, dermatocistidi unicellulari di 4-6 μm ->  R.faginea
+2b Specie policroma delle stazioni apriche su silice (vedi le possibili forme di colore considerate in appendice a questa dicotomia), statura medio-piccola, cuticola opaca o subvellutata, talvolta in parte brillante, sporata ocra, spore ad aculei più o meno isolati, epicutis di peli relativamente voluminosi e polimorfi accompagnati da dermatocistidi poco colorabili in SBA (l'epitypus avrebbe un cappello rosso vinoso, spore di 7,5-9 x 6,2-6,7 μm e peli con estremità più o meno affilata) -> R. graveolens
+2ba Cappello porpora, con centro talvolta nerastro -> R. purpurissata
+2bb Simile alla precedente, con peli e spore più voluminosi -> R. rubida
+2bc Cappello principalmente verde, finemente corrugato o con marezzature concentriche più scure, epicutis di peli ampollacei -> R. cicatricata
+2bd Analoga alla precedente, con peli debolmente ampollacei e dermatocistidi più numerosi -> R. elaeodes
+2be Cappello brunastro come in R. mustelina -> R.fusca
+2bf Cappello screziato di vari colori, gambo corto -> R. brevis
+2bg Sosia di R. amoena di statura un po' più grande, cappello porpora, vellutato, gambo tinteggiato di rosso -> R. amoenoides
+2bh Cappello porpora, gambo sottile e rosseggiante, lamelle larghe, ben spaziate -> R. amoenoides var. gracilipes
+2bi Cappello porpora, lentamente volgente al giallo -> R. gilvescens
+2bl Cappello pruinoso, violetto o in parte olivastro, sporata al limite tra crema e ocra -> R. cretata
+2bm Piccola specie dal cappello rosso rame, a spore vistosamente echinulate e peli di 3-5-(7) μm -> R. barlae var. pseudomelliolens ss. Bon
+2bn Grossa specie dal cappello rosso violaceo di 80-150 mm, spore echinulate di 8-12 x 6,5-10 μm, habitat sotto carpini (probabile forma non ecotipica di R.faginea) -> R. pseudomelliolens ss. Reumaux
+3a Specie dal cappello principalmente rosso porpora,con possibili ma rare discolorazioni centrali olivastre o ocracee fosche, gambo in larga parte rosso carminio nelle forme ben tipiche, sporata verso IIIc, spore di 8-11 x 6,5-8,2 μm ->  R. xerampelina
+3aa Differisce dalla precedente per la corporatura più piccola e fragile, le tinte dilavate, le spore di soli 7-8,5 x 5,3-6,7 μm -> R. amoenipes
+3b Specie con cappello da ocra-bruno a bruno-incarnato, a bruno-olivastro, cuticola opaca o finemente vellutata, sporata IIIb-c, raramente IVa, spore di 8,5-10,4 x 7,2-8,3 μm o anche meno, ad aculei non più alti di 1 μm, gambo raramente lavato di rosa -> R. favrei
+3ba Rarissima specie insufficientemente conosciuta delle peccete umide, a cappello principalmente verde, spore più piccole e debolmente ornate, di 7-8,5 x 6-7 μm (cfr. R. amoenipes) -> R. clavipes
+4a Specie dei saliceti umidi associata alle stazioni rivierasche planiziarei soprattutto del nord Europa, ugualmente rinvenibile in zona alpina ("R. chamiteae"), cappello di 35-70 (90) mm, da rosso rame a rosso porpora, a bruno bronzeo, più o meno screziato di giallo, gambo facilmente rosseggiante, spore a verruche un po' connesse o crestate, dermatocistidi annerenti in SBA ->  R. subrubens
+4b Dermatocistidi inerti in SBA, statura mediamente più piccola -> 5
+5a Specie comunissima negli alti pascoli di montagna su silice, cappello di 20-45 (55) mm, da rosso-violetto a bruno, a giallo, con sfumature olivastre eventuali, sporata ocra, da IIIa a IIIc ->  R. pascmi
+5b Specie nota per un sol corpo fruttifero raccolto in una stazione a Salix reticulata e Benda nana della Lapponia norvegese, omologabile alla precedente per l'inerzia dell'epicutis ai reattivi solfoaldeidici, ma apparentemente diversa per la mancanza di dermatocistidi e la crescita su calcare -> R. nuoljae
+5b Specie non confermata dell'arco alpino, a carne relativamente soffice e margine pileico striato, sporata crema pallido (o ocra?), dermatocistidi non reagenti a SBA (possibile forma di R. pascua) -> R. felleaecolor
