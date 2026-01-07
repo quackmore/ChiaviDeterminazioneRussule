@@ -1,0 +1,14 @@
+1a Sporata giallo carico, verso IVd o IVe -> 2
+1b Sporata giallo chiaro, verso IVa, al più IVb ->  5
+2a Specie a distribuzione prevalentemente nordica, con forte odore di mostarda o sottaceti alla corruzione, cappello giallo cromo, cuticola pileica viscidula e brillante ->  R. vitellina
+2b Odore trascurabile o diversamente caratterizzato, rivestimento pileico in linea generale più opaco ->  3
+3a Specie associata con Picea o abete bianco, cappello da giallo-verde a livido-violaceo, o in parte brunastro, lamelle assai ventricose, sporata IVd-e, grandi spore ad aculei più o meno isolati ->  R. olivascens
+3b Non questi caratteri associati ->  4
+4a Specie slanciata dal cappello prevalentemente rosso o arancio, talvolta in parte o anche interamente giallo, cuticola opaca, asportabile fino al centro, lamelle tendenzialmente uguali, odore di rose avvizzite alla corruzione, spore ad aculei più o meno isolati ->  R. risigallina
+4b Caratteri microscopici come nella precedente (R. risigallina), ma struttura assai relativamente robusta e carnosa, cuticola pileica in media più brillante, cappello ocra o un po' lavato di rosa sul contorno, odore trascurabile alla corruzione -> R. ochracea
+4c Specie associata alle querce mediterranee sempreverdi e ai querceti caducifogli caldi in terreno siliceo, cappello giallo dorato, con diametro fino a 90-100 mm, cuticola presto asciutta e opaca, sporata verso IVe, spore a verruche in parte catenulate o crestate, ife primordiali dell'epicutis sottilissime, di appena 3-4 μm -> R. helios
+5a Specie di latifoglie associata preferibilente con Quercus, cappello da rosa a rosso sangue, a rosso-violaceo, più o meno screziato di bruno-rame o di giallo ocra, gambo ben svasato alla sommità, lamelle ventricose, arrotondato-libere all'inserzione -> R. roseicolor
+5b Cappello interamente giallo, o con un tocco di verde, ife primordiali assai voluminose, larghe 6-7 (8) μm -> 6
+5c Cappello giallino o in parte rosato, base del gambo talvolta macchiata di rosa, spore di 6,3-8,8 x 5,2-7 μm, verrucose e un po' crestate, epicutis a ife primordiali di 2-4,8 μm (rara specie a sporata "salmonea", nota per uno scarno materiale ritrovato nelle faggete del nord Europa) ->  R. salmonolutea
+6a Specie non confermata di latifoglie (Fagus), portamento di R. ochroleuca, cappello alle volte in parte olivastro, spore a spine riunite in un disegno cortamente subreticolato-crestato, ife primordiali larghe 6-8 μm -> R.flavocitrina
+6b Specie critica dal cappello fondamentalmente giallo, con odore debole e tardivo di mostarda, spore bassamente verrucose, a verruche in parte connesse, ife primordiali larghe 4-7 μm ->  R. gilva

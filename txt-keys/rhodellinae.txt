@@ -1,0 +1,14 @@
+1a Specie dal cappello asciutto e opaco, in qualche caso perfino vellutato, sporata ocra o gialla -> 2
+1b Superficie pileica più o meno umida e brillante ->  5
+2a Specie con sporata gialla, verso IVb ->  4
+2b Minuscole specie con cappello di 20-30-(40) mm, sporata ocra carico, da IIIb a IIIc, ben difficilmente verso IVa ->  3
+3a Specie dal cappello vellutato e finemente screpolato, sporata ocra (IIIb), spore a verruche isolate, epicutis di grossi peli cortamente articolati, con strato soggiacente quasi pseudoparenchimatico, formato da articoli sferocistoidi o ameboidi ->  R. melzeri
+3b Rarissima specie delle querce (ecologia da verificare su più ampia casistica), sporata ocra carico verso IIIc (IVa), spore verrucoso-crestate di 6,4-8,8 x 5,6-7,5 μm con rilievo ornamentale di 0,4-0,6 μm, peli variamente articolati e in parte affilati a ife soggiacenti ampollacee, dermatocistidi da unicellulari a plurisettati larghi 5-8-10-(12) μm, certuni strangolati o impregnati di un succo giallo oro ->  R. convivialis
+4a Specie associata con lecci o querce da sughero in terreni silicei, preferibilmente sabbiosi, cappello vellutato, da rosastro a rosso, più o meno toccato di bruno o di carminio, carne subimmutabile, priva di odore, epicutis di grossi peli articolati, supportati da ife ampollacee, spore marcatamente crestate subreticolate ->  R. pseudoimpolita
+4b Superficie pileica opaca e più o meno zigrinata, ma non vellutata, rosa-rosso, al più con tenui sfumature cupreo-arancio, odore fruttato leggero, spore a verruche isolate, dermatocistidi finemente incrostati, habitat di latifoglie, principalmente sotto querce caducifoglie ->  R. impolita
+5a Specie di betulle, a cappello rosso vivo, rosso rame, o in parte giallo, gambo facilmente pigmentato di rosso, peli banali -> R. font-queri
+5b Non questi caratteri associati, specie dei boschi freschi caducifogli associate principalmente con faggi, gambo solitamente bianco -> 6
+6a Specie con carne che ingiallisce discretamente e solo per zone, reagendo normalmente al FeSO4, sporata crema o ocra ->  7
+6b Carne vivamente ingiallente, pressoché insensibile al FeSO4, cappello più o meno brillante, da rosso rame a rosso-bruno, o impallidente a rosa carminio, odore talvolta notevole di frutta o pelargonio, sporata verso IIIc (cfr. R. fluxicolor, di odore trascurabile e reazione debolmente positiva al FeSO4) ->  R. arpalices
+7a Specie a sporata crema (IIb-c), piccole spore finemente verrucose e crestate, dermatocistidi filamentiformi di 4-6 μm -> R. puellula
+7b Specie a sporata ocra, non meno di IIIa o IIIb, spore a verruche fondamentalmente isolate, con rilievo più grossolano (almeno in parte reticolate nella var. heterosperma) -> R. rhodella

@@ -1,0 +1,13 @@
+16a Specie di Picea (anche di latifoglie, secondo Bon & Weholt 1986), cappello da verde-bronzeo a bruno scuro evocante le Griseinae, sporata solamente crema, verso IIc, spore di 8-10 x 6,5-8 μm ->  R. aerina
+16b Minuscola specie artico-alpina a basidi bisporici, al momento nota per i soli pascoli delle montagne scandinave, cappello fondamentalmente bruno, sporata ocra carico, spore di 9-11 x 7,5-9 μm, dermatocistidi larghi 3-6 μm, con non più di 2-3 setti -> R. pseudocampestris
+16c Specie della zona silvatica associate con latifoglie o conifere, sporata gialla, spore assai voluminose e talvolta enormi, di 9-12-(13) * 9-11-(12) μm ->  17
+17a Grossa specie imbrunente delle sugherete del Marocco, cappello bruno-rossastro come in R.foetens, sporata verso IIIc-IVa (cfr. forme dolci di R. globispora, a sporata apparentemente più scura) ->  R. straminea
+17b Sporata nettamente gialla verso IVc o IVd, raramente IVb ->  18
+18a Specie nordica associata con Picea abies, cappello policromo di 3-18 cm, sovente brunastro o violaceo, anche nerastro o verdescente al centro, spore verso 9-11,2 * 7,2-9,5 μm, sporata IVd ->  R. olivobrunnea
+18b Specie a ripartizione più meridionale ->  19
+19a Piccola specie di latifoglie non confermata, sapore subacre, spore verso 12-15 μm (vicina a R. globispora, da cui parrebbe differire per la carne non ingiallente e i dermatocistidi plurisettati) ->  R. maximispora
+19b Specie evocanti R. integra per il portamento e i colori, ma con epicutis a soli dermatocistidi non incrostati, senza ife primordiali ->  20
+20a Media specie associata con Pinus, spore di 8-11 x 7,5-9,2 μm, epicutis a grossi peli ottusi di 3-6 μm (cfr. R. campestris var. meridionalis, di grossa taglia, crescente sotto cedri e pini marittimi) ->  R. campestris
+20b Forme critiche o poco confermate, descritte in subordine a R. integra, cui somiglierebbero per i peli dell'epicutis affilati; ma i dermatocistidi sono dichiarati privi di incrostazioni ->  21
+21a Sorta di grossa R. integra dal cappello biancastro, crescente sotto abeti e faggi in terreni silicei sabbiosi -> R. integra f. gigas
+21b Assimilabile macroscopicamente a R. integra, ma spore con minuscole verruche catenulate, IVd in massa ->  R. integra var. phlyctidospora

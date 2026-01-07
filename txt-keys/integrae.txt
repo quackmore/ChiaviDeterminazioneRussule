@@ -1,0 +1,14 @@
+1a Specie a carne lentamente annerente, che diventa rossa con una goccia di Formalina (Serie Rhodomarginata) -> 2
+1b Specie a carne moderatamente imbrunente o ingrigente, reazione alla Formalina insignificante (Serie Integra) ->  3
+2a Piccola specie mediterranea associata ai boschi di Quercus con cisto o Erica, superficie pileica opaca, da rosa-rosso a violaceo, a crosta di pane, marcatamente decolorante al centro, margine liscio, lamelle ben spaziate, carne subdura, sporata IVb -> R. rhodomarginata
+2b Specie boreale in studio (Ruotsalainen e Vauras), al momento nota per la sola Fennoscandia -> R. kallioi
+3a Specie associata ai boschi freschi caducifogli, soprattutto di betulle, o con pini, cappello da giallo-verde a rosa-violaceo, a ocra-brunastro, carne ingrigente a umido, sporata IVb-c, medie spore ad aculei isolati, peli dell'epicutis sottilissimi, con ife primordiali e dermatocistidi poco più spessi, questi ultimi sovente capitati ->  R. cremeoavellanea
+3b Carne imbrunente con moderazione o poco cangiante, altri caratteri associati -> 4
+4a Spore ad aculei isolati, sporata giallo medio, IVb-IVc (IVd) -> 5
+4b Piccola specie mediterranea dei cisti, con sapore moderatamente acre e sporata crema-ocraceo, IId o IIIa, spore subreticolate, epicutis a dermatocistidi plurisettati e ife primordiali attenuate, con essudato resistente all'Ammoniaca e alla stagionatura in erbario ->  R. tyrrhenica
+4c Media specie di latifoglie associata preferibilmente con Quercus, cappello vinoso, raramente brunastro, o con il centro stinto di ocra olivastro, sporata IVb, spore di circa 8-10 x 6,2-8,4 μm, assai finemente ornate, con accenno di reticolo -> R. carminipes
+5a Media specie subdura di conifere, crescente principalmente su calcare e in montagna, cappello assai policromo, da bruno a porpora, a verde, a giallo etc., sporata verso IVc, enormi spore echinulate di circa 8,8-11,2 x 7,4-9 μm, dermatocistidi stretti -> R. integra
+5b Specie meno carnosa della precedente, con sapore talvolta subpiccante, spore più piccole, circa 8-9,2-(10) x 6,7-8-(9) μm, sporata IVd, grossi dermatocistidi clavati di 5,5-12,5 μm ->  R. integra var. oreas
+5c Specie di latifoglie, altri caratteri associati ->  6
+6a Cappello policromo, da bruno cupo a rosso porpora o violaceo, con il centro talvolta olivastro o nerastro, carne che odora di miele appassendo, ife primordiali affilate, generalmente incrostate solo in basso, spore di 8,5-10 x 7-9 μm -> R. melitodes
+6b Piccola specie dal cappello rosso, arancio o porpora, odore fruttato con note di legno di cedro, sapore delle lamelle delicatamente astringente, epicutis a dermatocistidi lunghi e sottili, con ife primordiali solitamente mal differenziate -> R. laeta
