@@ -57,7 +57,7 @@ function generateHtmlFromKeys(keys, cat) {
 <body>
   <header>
     <h1>Chiavi Determinazione Russule</h1>
-    <p>Sarnari</p>
+    <p>Sarnari (<a class="header-a" href="classificazione.html">classificazione</a>)</p>
   </header>
 
   <main>

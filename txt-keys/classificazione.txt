@@ -1,0 +1,92 @@
+Sottogenere COMPACTAE (Fr.) Bon
+Sez. COMPACTAE Fries [Nigricantes (Bataille) Konrad & Joss.]
+serie Acrifolia ad int.
+serie Atramentosa ad int.
+serie Albonigra ad int.
+Sez. ARCHAEINAE Heim ex Buyck & Sarnari, emend.
+Sez. LACTARIOIDES (Bataille) Konrad & Joss. (Plorantes Singer non Bataille)
+Sottogenere HETEROPHYLLIDIA Romagnesi, emend.
+Sez. HETEROPHYLLAE Fries
+subsez. Cyanoxanthinae Singer (Indolentes Melzer & Zvara)
+subsez. Heterophyllae (Fries) J. Schaeffer
+subsez. Griseinae J. Schaeffer
+subsez. Ilicinae (Romagn.) Buyck
+Sez. VIRESCENTINAE (Singer) Sarnari
+Sez. GRISEOFLACCIDAE Sarnari ad int.
+Sottogenere AMOENULA Sarnari
+Sottogenere INGRATULA Romagnesi
+Sez. INGRATAE (Quélet) Maire
+subsez. Farinipedes Singer
+subsez. Foetentinae (Melzer & Zvara) Singer
+serie Foetens ad int. (Foetentinae ss. str. Bon)
+serie Pectinata ad int. (Pectinatae Bon)
+Sez. SUBVELATAE Singer
+Sez. FISTULOSAE (Heim ex Singer) Buyck (extraeuropee)
+Sez. FELLEINAE (Melzer & Zvara) Sarnari, emend.
+Sottogenere RUSSULA, emend.
+Sez. RUSSULA, emend.
+subsez. Russula, emend.
+serie Atropurpurea ad int.
+stirpe Atropurpurea ad int. (Atropurpurinae Romagn.)
+stirpe Citrina ad int. (Citrinae Romagn.)
+serie Russula ad int. (Emeticinae Melzer & Zvara ss. Romagn.)
+stirpe Russula (Emetica) ad int.
+stirpe Mairei ad int.
+subsez. Consobrinae Sarnari
+subsez. Sardoninae Singer, emend.
+serie Sardonia ad int.
+serie Sanguinea ad int.
+serie Exalbicans ad int. (Exalbicantinae Singer)
+serie Persicina ad int. (Persicinae Romagn.)
+subsez. Violaceinae (Romagnesi) Sarnari
+subsez. Urentes Maire, emend.
+serie Badia ad int.
+serie Decipiens ad int.
+serie Maculata ad int.
+serie Lundellii ad int.
+serie Cuprea ad int.
+serie Adulterina ad int.
+serie Veternosa ad int.
+subsez. Rubrinae (Melzer & Zvara) Singer, emend.
+Sez. VISCIDINAE (Sarnari) Sarnari
+Sez. POLYCHROMAE Maire, emend. (subgen. Polychromidia Romagn. p.p.)
+subsez. Xerampelinae Singer
+subsez. Melliolentinae Singer, emend.
+subsez. Integriforminae Bon, emend.
+serie Decolorans ad int.
+serie Romellii ad int.
+serie Trimbachii ad int.
+serie Stramin ea ad int.
+subsez. Paraintegrinae Sarnari
+serie Integriformis ad int.
+serie Seperina ad int.
+subsez. Auratinae Bon
+Sez. PARAINCRUSTATAE Sarnari
+subsez. Integrae Maire, emend.
+serie Integra ad int.
+serie Rhodomarginata ad int.
+subsez. Lepidinae (Melzer & Zvara) Singer
+Sez. TENELLAE Quélet (subgen. Tenellula Romagn.)
+subsez. Puellarinae Singer
+serie Puellaris ad int.
+serie Versicolor ad int.
+serie Odorata ad int.
+serie Laricinoaffinis ad int.
+subsez. Rhodellinae (Romagn.) Bon
+subsez. Laricinae (Romagn.) Bon, emend.
+subsez. Betulinae (Romagn.) Sarnari (Sphagnophilae Singer)
+Sez. MESSAPICAE Sarnari (o subgen.? verso Ma cowanites)
+Sottogenere INCRUSTATULA Romagnesi, emend.
+Sez. LILACEINAE (Melzer & Zvara) Konrad & Joss. (Incrustatae leucosporae Romagn.)
+subsez. Lilaceinae (Melzer & Zvara) J. Schaeffer
+serie Emeticicolor ad int.
+serie Lilacea ad int.
+subsez. Roseinae Singer ex Sarnari, emend.
+Sez. AMETHYSTINAE Romagnesi, emend. (Jncrustatae xanthosporae Romagn. p.p.)
+subsez. Amethystinae (Romagn.) Bon
+subsez. Chamaeleontinae Singer
+serie Risigallina ad int.
+subsez. Integroidinae Romagnesi in Bon
+serie Vinosa ad int.
+serie Sericatula ad int.
+subsez. Olivaceinae Singer

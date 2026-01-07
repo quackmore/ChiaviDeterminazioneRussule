@@ -95,6 +95,11 @@ a:hover {
     text-decoration: underline;
 }
 
+.header-a {
+    color: #d1e3f6;
+    text-decoration: none;
+}
+
 /* Floating Navigation Buttons */
 .floating-nav {
     position: fixed;
@@ -160,6 +165,26 @@ footer {
 
 .hierarchy-item {
     display: inline;
+}
+
+.indent1 {
+    margin-left: 30px;
+}
+
+.indent2 {
+    margin-left: 60px;
+}
+
+.indent3 {
+    margin-left: 90px;
+}
+
+.indent4 {
+    margin-left: 120px;
+}
+
+.indent5 {
+    margin-left: 150px;
 }
 
 /* Mobile responsiveness */
